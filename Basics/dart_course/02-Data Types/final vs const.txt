@@ -1,0 +1,11 @@
+final vs const keyword:
+	If you never want to change a value then use final or const keywords.
+		final name = “Sai Gopi”
+		const price = 999
+
+Difference between final and const :
+final variable can only be set once and it is initialized when accessed.
+const variable is implicitly final but it is a compile time constant
+I.e it is initialized during the compilation.
+Instance variable can be final but cannot be const
+If you want a Class level constant then make it static const.

@@ -1,0 +1,4 @@
+main() {
+  int posNum = 10;
+  print(posNum.isEven);
+}

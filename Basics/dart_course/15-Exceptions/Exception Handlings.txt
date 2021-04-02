@@ -1,0 +1,30 @@
+Exception Handlings:
+==================
+Type of errors:
+
+1) Compile Time Errors:
+
+Errors occur while compiling the project.
+Examples : Syntax errors, semicolon missing,misspell,etc.
+
+2) Run time Errors (Exceptions):
+
+These will happen dynamically while running the applications.
+Examples : FormatException,IOException,IntegerDivisionByZeroException,etc. 
+
+Important Keywords in exceptions:
+
+try
+Should keep code inside the block to handle the exceptions.
+
+catch
+When you don't know about what exception is going to happen
+
+on
+When you know about what exception is going to happen.
+
+finally
+This block of code will execute even if an exception happened or not.
+
+throw
+For throwing custom exceptions.

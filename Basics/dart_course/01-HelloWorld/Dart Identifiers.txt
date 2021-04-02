@@ -1,0 +1,21 @@
+Dart Identifiers:
+================
+Identifiers are the name which is used to define variables, methods, class, and function, etc. An Identifier is a sequence of the letters([A to Z],[a to z]), digits([0-9]) and underscore(_), but remember that the first character should not be a numeric. There are a few rules to define identifiers which are given below.
+
+The first character should not be a digit.
+Special characters are not allowed except underscore (_) or a dollar sign ($).
+Two successive underscores (__) are not allowed.
+The first character must be alphabet(uppercase or lowercase) or underscore.
+Identifiers must be unique and cannot contain whitespace.
+They are case sensitive. The variable name Joseph and joseph will be treated differently.
+
+Below is the table of valid and invalid identifiers.
+
+Valid Identifiers	Invalid Identifiers
+================	===================
+firstname		__firstname
+firstName		first name
+var1			V5ar
+$count			first-name
+_firstname		1result
+First_name		@var

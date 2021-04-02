@@ -1,0 +1,14 @@
+Data types in Dart:
+Numbers
+int
+double
+Strings
+Booleans
+List (Also known as Arrays)
+Set
+Maps
+Runes (for expressing Unicode Characters in string)
+Symbols
+
+Note : All data types in Dart are Objects.
+Default value for all types is �null�.

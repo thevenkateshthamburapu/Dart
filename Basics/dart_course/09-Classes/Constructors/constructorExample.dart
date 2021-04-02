@@ -1,0 +1,10 @@
+void main() {
+  Car c = new Car('E1001');
+}
+
+class Car {
+  //constructor
+  Car(String engine) {
+    print(engine);
+  }
+}

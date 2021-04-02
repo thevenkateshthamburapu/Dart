@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="71c60596-ced1-468e-ac6e-bc6e03f1f90a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Basics" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Uul27quD5f7LoqotNvBKAGs0bg" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="dart.analysis.tool.window.force.activate" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Applications/Web_04_BankApplication" />
+    <property name="settings.editor.selected.configurable" value="preferences.general" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Venkatesh-Workspace\Apps\Dart\Basics\dart_course\09-Classes\Private" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Venkatesh-Workspace\Apps\Dart\Basics\dart_course\11-Inheritance" />
+      <recent name="D:\Venkatesh-Workspace\Apps\Dart\Basics\dart_course\02-Data Types\07-Symbols\Example-2 Display the number of instance methods of a class" />
+      <recent name="D:\Venkatesh-Workspace\Apps\Dart\Basics\dart_course\03-Operators\05-Assignment Operators" />
+      <recent name="D:\Venkatesh-Workspace\Apps\Dart\Basics\dart_course\01 HelloWorld" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Dart Command Line App.fileExample.dart">
+    <configuration name="abstractClassesExample.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/dart_course/09-Classes/Abstract Classes/abstractClassesExample.dart" />
+      <option name="workingDirectory" value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="fileExample.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/dart_course/Test/fileExample.dart" />
+      <option name="workingDirectory" value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="groupingTestCases.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/dart_course/20-Unit Testing/groupingTestCases.dart" />
+      <option name="workingDirectory" value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="jsonExample.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/dart_course/21-JSON/jsonExample.dart" />
+      <option name="workingDirectory" value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <option name="filePath" value="$PROJECT_DIR$/bin/main.dart" />
+      <option name="workingDirectory" value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="polymorphismExample.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/dart_course/12-Polymorphism/polymorphismExample.dart" />
+      <option name="workingDirectory" value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Dart Command Line App.main.dart" />
+      <item itemvalue="Dart Command Line App.groupingTestCases.dart" />
+      <item itemvalue="Dart Command Line App.abstractClassesExample.dart" />
+      <item itemvalue="Dart Command Line App.polymorphismExample.dart" />
+      <item itemvalue="Dart Command Line App.jsonExample.dart" />
+      <item itemvalue="Dart Command Line App.fileExample.dart" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Dart Command Line App.fileExample.dart" />
+        <item itemvalue="Dart Command Line App.jsonExample.dart" />
+        <item itemvalue="Dart Command Line App.polymorphismExample.dart" />
+        <item itemvalue="Dart Command Line App.abstractClassesExample.dart" />
+        <item itemvalue="Dart Command Line App.groupingTestCases.dart" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="71c60596-ced1-468e-ac6e-bc6e03f1f90a" name="Default Changelist" comment="" />
+      <created>1576214150632</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576214150632</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="513" y="221" key="#com.intellij.debugger.actions.ViewTextAction" timestamp="1576648066246">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="513" y="221" key="#com.intellij.debugger.actions.ViewTextAction/0.0.1366.728@0.0.1366.728" timestamp="1576648066246" />
+    <state x="137" y="21" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1576475722841">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="21" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1576475722841" />
+    <state x="488" y="82" key="#com.intellij.ide.util.MemberChooser" timestamp="1578378423283">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="82" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1578378423283" />
+    <state x="614" y="116" key="#xdebugger.XInspectDialog" timestamp="1576648071927">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="614" y="116" key="#xdebugger.XInspectDialog/0.0.1366.728@0.0.1366.728" timestamp="1576648071927" />
+    <state x="560" y="72" key="#xdebugger.evaluate" timestamp="1576648110734">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="560" y="72" key="#xdebugger.evaluate/0.0.1366.728@0.0.1366.728" timestamp="1576648110734" />
+    <state x="397" y="129" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1577077469289">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="397" y="129" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1366.728@0.0.1366.728" timestamp="1577077469289" />
+    <state x="463" y="121" key="FileChooserDialogImpl" timestamp="1578573182537">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="121" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1578573182537" />
+    <state width="1322" height="216" key="GridCell.Tab.0.bottom" timestamp="1578381375220">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="216" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1578381375220" />
+    <state width="1322" height="216" key="GridCell.Tab.0.center" timestamp="1578381375220">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="216" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1578381375220" />
+    <state width="1322" height="216" key="GridCell.Tab.0.left" timestamp="1578381375220">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="216" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1578381375220" />
+    <state width="1322" height="216" key="GridCell.Tab.0.right" timestamp="1578381375220">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="216" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1578381375220" />
+    <state width="1322" height="216" key="GridCell.Tab.1.bottom" timestamp="1578381375221">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="216" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1578381375221" />
+    <state width="1322" height="216" key="GridCell.Tab.1.center" timestamp="1578381375221">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="216" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1578381375221" />
+    <state width="1322" height="216" key="GridCell.Tab.1.left" timestamp="1578381375220">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="216" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1578381375220" />
+    <state width="1322" height="216" key="GridCell.Tab.1.right" timestamp="1578381375221">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="216" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1578381375221" />
+    <state x="186" y="0" key="SettingsEditor" timestamp="1576476052787">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="186" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1576476052787" />
+    <state x="390" y="190" key="com.intellij.ide.util.TipDialog" timestamp="1577076121167">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="390" y="190" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1577076121167" />
+    <state x="85" y="79" key="new project wizard" timestamp="1577186123170">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="85" y="79" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1577186123170" />
+    <state x="463" y="171" key="save.file.as.template.dialog" timestamp="1577077474158">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="171" key="save.file.as.template.dialog/0.0.1366.728@0.0.1366.728" timestamp="1577077474158" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1577087368295">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1577087368295" />
+  </component>
+</project>
